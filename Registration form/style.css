@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: url("D:\pictures\Bg-image.jpg");
+    background: url('Bg-image.jpg');
     background-size: 280%;
     background-position: -400px 0px;
 }
